@@ -1,6 +1,8 @@
 # Le Voyage du Héros de l'IT
 References du talk "Le Voyage du Héros de l'IT"
 
+![Points Clés](./Illustration_sans_titre 1 2.png)
+
 ## Livres
 
 ### Le guide du scénariste - Christopher Vogler
