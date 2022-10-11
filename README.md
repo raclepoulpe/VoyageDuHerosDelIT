@@ -1,7 +1,7 @@
 # Le Voyage du Héros de l'IT
 References du talk "Le Voyage du Héros de l'IT"
 
-![Points Clés](./Illustration_sans_titre 1 2.png)
+![Points Clés](https://github.com/raclepoulpe/VoyageDuHerosDelIT/blob/main/Illustration_sans_titre%201%202.png)
 
 ## Livres
 
