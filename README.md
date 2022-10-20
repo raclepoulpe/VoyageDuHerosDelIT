@@ -27,7 +27,9 @@ https://www.youtube.com/playlist?list=PLJyl6_S_7vA_HXRan0NyFgFba6E9Fody3
 
 ### Le voyage du héros - Ex Machina
 Ep1 : https://www.youtube.com/watch?v=vhLTGc4NlU4
+
 Ep2 : https://www.youtube.com/watch?v=qnug8TXl1lo
+
 Ep3 : https://www.youtube.com/watch?v=mcQS-xjmBQE&t=16s
 
 ### Masterclass Christopher Vogler - Alexandre Astier
