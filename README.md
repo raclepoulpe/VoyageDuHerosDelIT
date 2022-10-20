@@ -1,9 +1,14 @@
 # Le Voyage du Héros de l'IT
 References du talk "Le Voyage du Héros de l'IT"
 
+## Chasse le poulpe 👇
+https://twitter.com/raclepoulpe
+https://www.linkedin.com/in/olivier-beautier-36b5858
+https://letmegooglethat.com/?q=raclepoulpe
+
 ![Points Clés](https://github.com/raclepoulpe/VoyageDuHerosDelIT/blob/main/Modele.png)
 
-## Livres
+## Livres 📚
 
 ### Le guide du scénariste - Christopher Vogler
 https://www.dixit.fr/boutique-detail-livre-le-guide-du-scenariste-par-christopher-vogler-393-0-1.html
@@ -20,7 +25,7 @@ https://www.cultura.com/p-impro-improvisation-theatre-9782364780552.html
 ### Improvisation théatrale - Nabla Leviste
 https://www.cultura.com/p-improvisation-theatrale-la-fabuleuse-science-de-l-imprevu-9782343140704.html
 
-## Vidéos
+## Vidéos 🎬
 
 ### Analyse complète de la saga Star Wars - Marco
 https://www.youtube.com/playlist?list=PLJyl6_S_7vA_HXRan0NyFgFba6E9Fody3
