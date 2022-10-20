@@ -3,8 +3,11 @@ References du talk "Le Voyage du Héros de l'IT"
 
 ## Chasse le poulpe 👇
 https://twitter.com/raclepoulpe
+
 https://www.linkedin.com/in/olivier-beautier-36b5858
+
 https://letmegooglethat.com/?q=raclepoulpe
+
 
 ![Points Clés](https://github.com/raclepoulpe/VoyageDuHerosDelIT/blob/main/Modele.png)
 
