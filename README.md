@@ -8,6 +8,10 @@ https://www.linkedin.com/in/olivier-beautier-36b5858
 
 https://letmegooglethat.com/?q=raclepoulpe
 
+## Compte Twitter de Charlotte
+https://twitter.com/charlottepegg11
+
+
 ## Le Modèle 🗺️
 
 ![Points Clés](https://github.com/raclepoulpe/VoyageDuHerosDelIT/blob/main/Modele.png)
