@@ -35,6 +35,9 @@ https://www.cultura.com/p-improvisation-theatrale-la-fabuleuse-science-de-l-impr
 
 ## Vidéos 🎬
 
+### DevFest Nantes 2022 - Le Voyage du Héros de l'IT
+https://youtu.be/AZKjdhViwYI
+
 ### Analyse complète de la saga Star Wars - Marco
 https://www.youtube.com/playlist?list=PLJyl6_S_7vA_HXRan0NyFgFba6E9Fody3
 
