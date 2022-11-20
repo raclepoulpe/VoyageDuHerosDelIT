@@ -6,6 +6,8 @@ https://twitter.com/raclepoulpe
 
 https://www.linkedin.com/in/olivier-beautier-36b5858
 
+https://mastouille.fr/@raclepoulpe
+
 https://letmegooglethat.com/?q=raclepoulpe
 
 ## Compte Twitter de Charlotte
