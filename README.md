@@ -40,7 +40,7 @@ https://www.cultura.com/p-improvisation-theatrale-la-fabuleuse-science-de-l-impr
 ### DevFest Nantes 2022 - Le Voyage du Héros de l'IT
 https://youtu.be/AZKjdhViwYI
 
-### Keynote de fermeture TouraineTech 2023
+### Keynote de fermeture TouraineTech 2023 - Le Voyage du Héros de l'IT
 https://youtu.be/RxvTE16J8PI?si=liaBd5OWMmBArUMb
 
 ### Analyse complète de la saga Star Wars - Marco
